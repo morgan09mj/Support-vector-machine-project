@@ -1,4 +1,4 @@
-# Support-vector-machine-project (SVM)
+# Support-vector-machine-project (SVM) (AI)
 In this exercise, we will use ready-made SVM tools and libraries to get familiar with SVM classification capabilities.
 First, design some two-class problems from very simple to very complex. For example, consider a number of points (for example, 100 to 1000 points) in two-dimensional space and assume that some points are members of class 1 and others are members of class -1. Plot the points on a two-dimensional graph. For example, the following figures can be some suggested examples:
 
